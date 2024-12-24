@@ -3,12 +3,12 @@
 # Release action
 Github release action
 
-[![GitHub stars](https://img.shields.io/github/stars/gouef/github-lib-template?style=social)](https://github.com/gouef/github-lib-template/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/gouef/release-action?style=social)](https://github.com/gouef/release-action/stargazers)
 
 ## Versions
-![Stable Version](https://img.shields.io/github/v/release/gouef/github-lib-template?label=Stable&labelColor=green)
-![GitHub Release](https://img.shields.io/github/v/release/gouef/github-lib-template?label=RC&include_prereleases&filter=*rc*&logoSize=diago)
-![GitHub Release](https://img.shields.io/github/v/release/gouef/github-lib-template?label=Beta&include_prereleases&filter=*beta*&logoSize=diago)
+![Stable Version](https://img.shields.io/github/v/release/gouef/release-action?label=Stable&labelColor=green)
+![GitHub Release](https://img.shields.io/github/v/release/gouef/release-action?label=RC&include_prereleases&filter=*rc*&logoSize=diago)
+![GitHub Release](https://img.shields.io/github/v/release/gouef/release-action?label=Beta&include_prereleases&filter=*beta*&logoSize=diago)
 
 ## Requires
 
