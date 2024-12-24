@@ -7,6 +7,9 @@ inputs:
     default: "main"
     description: "Branch"
 
+env:
+  GITHUB_TOKEN: "As provided by Github Actions"
+
 runs:
   using: composite
   steps:
