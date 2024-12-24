@@ -1,5 +1,5 @@
-name: Create Release
-description: Create Release notes
+name: Create Release Note with PRs, Issues, Users
+description: Create Release notes with PRs, Issues, Users
 branding:
   icon: box
   color: yellow
