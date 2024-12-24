@@ -22,8 +22,6 @@ runs:
       shell: bash
 
     - name: Authenticate GitHub CLI
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: gh auth setup-git
       shell: bash
 
@@ -144,14 +142,10 @@ runs:
         
         COMMITS=$(echo "$COMMITS" | sed 's/[[:cntrl:]]//g')
         echo "commits=$COMMITS" >> $GITHUB_ENV
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       shell: bash
 
     - name: Create release
       uses: ncipollo/release-action@v1
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag: ${{ github.ref_name }}
         body: |
