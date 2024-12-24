@@ -1,5 +1,8 @@
 name: Create Release
 description: Create Release notes
+branding:
+  icon: box
+  color: yellow
 
 inputs:
   branch:
