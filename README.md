@@ -4,6 +4,8 @@
 Github release action
 
 [![GitHub stars](https://img.shields.io/github/stars/gouef/release-action?style=social)](https://github.com/gouef/release-action/stargazers)
+![Usages](https://img.shields.io/endpoint?url=https://github-repo-usages.vercel.app/api/getAction.go?repository=gouef/release-action)
+
 
 ## Versions
 ![Stable Version](https://img.shields.io/github/v/release/gouef/release-action?label=Stable&labelColor=green)
