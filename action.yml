@@ -1,5 +1,5 @@
 name: Create Release Note with PRs, Issues, Users
-description: Create Release notes with PRs, Issues, Users
+description: Create / Generate Release notes based on commits with links to PRs, Issues, Users (commit author]
 branding:
   icon: box
   color: yellow
